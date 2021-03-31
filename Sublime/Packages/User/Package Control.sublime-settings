@@ -1,0 +1,46 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"ApacheConf",
+		"ayu",
+		"Blade Snippets",
+		"Color Highlight",
+		"DocBlockr",
+		"DotENV",
+		"EditorConfig",
+		"Emmet",
+		"Emoji",
+		"FavoriteFiles",
+		"GitGutter",
+		"HTMLBeautify",
+		"Laravel Blade Highlighter",
+		"Laravel Blade Spacer",
+		"MarkdownPreview",
+		"Material Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"PHP Companion",
+		"PHP CS Fixer",
+		"Phpcs",
+		"PHPUnitKit",
+		"PlainTasks",
+		"Pretty JSON",
+		"ProjectManager",
+		"Sass",
+		"SideBarEnhancements",
+		"SnippetMaker",
+		"SortBy",
+		"Stylus",
+		"SublimeLinter",
+		"SublimeLinter-phpcs",
+		"Terminal",
+		"Terminus",
+		"Vue Syntax Highlight"
+	]
+}

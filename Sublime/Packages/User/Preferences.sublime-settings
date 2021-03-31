@@ -1,0 +1,42 @@
+{
+	"added_words":
+	[
+		"middleware",
+		"auth",
+		"timestamp",
+		"accessor"
+	],
+	"caret_style": "phase",
+	"close_windows_when_empty": "true",
+	"color_scheme": "Packages/ayu/ayu-mirage.sublime-color-scheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Operator Mono Lig",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 13,
+	"hot_exit": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_to_bracket": false,
+	"line_padding_bottom": 5,
+	"line_padding_top": 5,
+	"phpunit.composer": true,
+	"remember_open_files": false,
+	"rulers":
+	[
+		80,
+		90,
+		110
+	],
+	"show_full_path": true,
+	"theme": "ayu-mirage.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"ui_native_titlebar": true,
+	"ui_separator": false,
+	"ui_wide_scrollbars": false,
+	"update_check": false
+}

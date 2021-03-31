@@ -1,0 +1,27 @@
+[
+  // Misc
+  { "keys": ["alt+m"], "command": "toggle_menu" },
+  { "keys": ["ctrl+shift+r"], "command": "reveal_in_side_bar"},
+  { "keys": ["ctrl+up"], "command": "select_lines", "args": {"forward": false} },
+  { "keys": ["ctrl+down"], "command": "select_lines", "args": {"forward": true} },
+  { "keys": ["ctrl+shift+t"], "command": "reopen_last_file" },
+
+  // PHP Companion
+  { "keys": ["f5"], "command": "expand_fqcn" },
+  { "keys": ["shift+f5"], "command": "expand_fqcn", "args": {"leading_separator": true} },
+  { "keys": ["ctrl+shift+alt+enter"], "command": "find_use" },
+  { "keys": ["f4"], "command": "import_namespace" },
+  { "keys": ["shift+f12"], "command": "goto_definition_scope" },
+
+  // Terminal
+  { "keys": ["ctrl+shift+tab"], "command": "open_terminal" },
+  { "keys": ["ctrl+space"], "command": "open_terminal_project_folder" },
+  // Terminus
+  { "keys": ["ctrl+tab"], "command": "toggle_terminus_panel" },
+
+  // Advanced New File
+  { "keys": ["super+ctrl+n"], "command": "advanced_new_file_new"},
+
+  // PHPUnitKit
+  { "keys": ["ctrl+."], "command": "phpunit_test_nearest" },
+]
